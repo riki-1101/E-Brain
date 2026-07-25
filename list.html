@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>リスト</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main id="home">
+        <h1>リスト</h1>
+        <section>
+            <h2>名詞</h2>
+            <ul class="list">
+                <li id="noun_business">ビジネスで用いられる語</li>
+                <li id="noun_business_person">ビジネスでの人に関する語</li>
+                <li id="noun_occupation">職業</li>
+                <li id="noun_industry">業種</li>
+            </ul>
+        </section>
+        <section>
+            <h2>形容詞</h2>
+            <ul class="list">
+                <li id="compound_adjectives">複合形容詞</li>
+            </ul>
+        </section>
+        <section>
+            <h2>文</h2>
+            <ul class="list">
+                <li id="declarative-sentence">平叙文</li>
+                <li id="question-sentence">疑問文</li>
+                <li id="conversational-expression">会話表現</li>
+            </ul>
+        </section>
+        <section>
+            <h2>その他</h2>
+            <ul class="list">
+                <li id="verb_usage_infinitives">動詞の語法：不定詞</li>
+                <li id="additional-phrase">補足表現</li>
+                <li id="adverbial_expressions">副詞表現</li>
+                <li id="adjective">Adjectives</li>
+                <li id="adjective-phrase">Adjective Phrases</li>
+                <li id="inanimate">無生物主語に対する動詞</li>
+                <li id="initial">イニシャル</li>
+                <li id="feelings">気持ちの表現</li>
+            </ul>
+        </section>
+    </main>
+    <footer id="footer"></footer>
+    <script src="js/header.js"></script>
+    <script src="js/footer.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const lists = document.querySelectorAll(".list");
+            lists.forEach(list => {
+                list.addEventListener("click", (e) => {
+                    if (e.target.tagName === "LI") {
+                        const id = e.target.id;
+                        localStorage.setItem("selectedId_list", id);
+                        window.location.href = "list/display.html";
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
