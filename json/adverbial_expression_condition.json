@@ -1,0 +1,240 @@
+[
+    {
+        "en": "all things considered",
+        "ja": "すべてを考慮すると"
+    },
+    {
+        "en": "apart from (sth)",
+        "ja": "～は別として",
+        "ex": [
+            {
+                "en": "apart from a few minor issues",
+                "ja": "いくつかの小さな問題は別として"
+            }
+        ]
+    },
+    {
+        "en": "as long as (SV)",
+        "ja": "～ならば",
+        "ex": [
+            {
+                "en": "as long as it doesn't rain",
+                "ja": "雨が降らなければ"
+            }
+        ]
+    },
+    {
+        "en": "assuming (SV)",
+        "ja": "～だと仮定して",
+        "ex": [
+            {
+                "en": "assuming everything goes well",
+                "ja": "すべてが上手くいくと仮定して"
+            }
+        ]
+    },
+    {
+        "en": "considering (sth)",
+        "ja": "～を考慮すると",
+        "ex": [
+            {
+                "en": "considering the time",
+                "ja": "時間を考慮すると"
+            }
+        ]
+    },
+    {
+        "en": "except for (sth)",
+        "ja": "～を除いて",
+        "ex": [
+            {
+                "en": "except for the meeting",
+                "ja": "会議を除いて"
+            }
+        ]
+    },
+    {
+        "en": "except that (SV)",
+        "ja": "～ということを除いて",
+        "ex": [
+            {
+                "en": "except that it's expensive",
+                "ja": "高価であるということを除いて"
+            }
+        ]
+    },
+    {
+        "en": "given (SV)",
+        "ja": "～ということを考えると",
+        "ex": [
+            {
+                "en": "given she has a lot of work to do",
+                "ja": "彼女はたくさんの仕事があることを考えると"
+            }
+        ]
+    },
+    {
+        "en": "if any",
+        "ja": "もしあれば"
+    },
+    {
+        "en": "if anything",
+        "ja": "どちらかと言えば、むしろ"
+    },
+    {
+        "en": "if desired",
+        "ja": "お望みの場合は"
+    },
+    {
+        "en": "if necessary",
+        "ja": "必要であれば"
+    },
+    {
+        "en": "if needed",
+        "ja": "必要なら"
+    },
+    {
+        "en": "if possible",
+        "ja": "もし可能なら"
+    },
+    {
+        "en": "if that's all right",
+        "ja": "もし差支えなければ"
+    },
+    {
+        "en": "if that's the case",
+        "ja": "もしそうなら"
+    },
+    {
+        "en": "if we all agree",
+        "ja": "全員一致したなら"
+    },
+    {
+        "en": "if you don't mind",
+        "ja": "もしご迷惑でなければ"
+    },
+    {
+        "en": "if you need any help",
+        "ja": "もし何かお手伝いが必要ならば"
+    },
+    {
+        "en": "if you please",
+        "ja": "よろしければ（古風）"
+    },
+    {
+        "en": "if you want",
+        "ja": "お望みなら、もしよかったら"
+    },
+    {
+        "en": "if you'd like",
+        "ja": "もしよろしければ"
+    },
+    {
+        "en": "in case of emergency",
+        "ja": "緊急の場合には"
+    },
+    {
+        "en": "in the short run",
+        "ja": "短期的には"
+    },
+    {
+        "en": "in the long run",
+        "ja": "長い目で見れば"
+    },
+    {
+        "en": "on condition that (SV)",
+        "ja": "～という条件で",
+        "ex": [
+            {
+                "en": "on condition that you keep it a secret",
+                "ja": "それを秘密にするという条件で"
+            }
+        ]
+    },
+    {
+        "en": "once (SV)",
+        "ja": "いったん～すると",
+        "ex": [
+            {
+                "en": "once I finish this book",
+                "ja": "いったんこの本を読み終えたら"
+            }
+        ]
+    },
+    {
+        "en": "only if (SV)",
+        "ja": "～である場合に限って",
+        "ex": [
+            {
+                "en": "only if it stops raining",
+                "ja": "雨が止んだ場合に限って"
+            }
+        ]
+    },
+    {
+        "en": "provided (SV)",
+        "ja": "もし～であるならば",
+        "ex": [
+            {
+                "en": "provided you're available",
+                "ja": "もし都合がつくならば"
+            }
+        ]
+    },
+    {
+        "en": "providing (SV)",
+        "ja": "～であるならば",
+        "ex": [
+            {
+                "en": "providing the weather is good",
+                "ja": "天気が良ければ"
+            }
+        ]
+    },
+    {
+        "en": "Should you have any questions",
+        "ja": "万一何かご質問がございましたら"
+    },
+    {
+        "en": "suppose (SV)",
+        "ja": "もし～なら",
+        "ex": [
+            {
+                "en": "suppose he doesn't show up",
+                "ja": "もし彼が現れなかったら"
+            }
+        ]
+    },
+    {
+        "en": "supposing (SV)",
+        "ja": "もし～なら",
+        "ex": [
+            {
+                "en": "supposing this is true",
+                "ja": "もしこれが本当なら"
+            }
+        ]
+    },
+    {
+        "en": "unless (SV)",
+        "ja": "～しない限り、～する場合を除いて",
+        "ex": [
+            {
+                "en": "unless it stops raining",
+                "ja": "雨が止まない限り"
+            }
+        ]
+    },
+    {
+        "en": "weather permitting",
+        "ja": "天気がよければ"
+    },
+    {
+        "en": "with luck",
+        "ja": "運が良ければ"
+    },
+    {
+        "en": "without approval",
+        "ja": "承認なしで"
+    }
+]
