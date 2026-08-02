@@ -28,6 +28,18 @@
         "ja": "～でいっぱいである"
     },
     {
+        "en": "guilty of (sth)",
+        "ja": "～の罪で有罪である"
+    },
+    {
+        "en": "ignorant of (sth)",
+        "ja": "～を知らない"
+    },
+    {
+        "en": "independent of (sth)",
+        "ja": "～から独立している"
+    },
+    {
         "en": "jealous of (sb)",
         "ja": "〜をうらやましく思う"
     },
@@ -36,8 +48,16 @@
         "ja": "〜を誇りに思っている"
     },
     {
+        "en": "short of (sth)",
+        "ja": "～が不足している"
+    },
+    {
         "en": "tired of (sth)",
         "ja": "〜に飽きている"
+    },
+    {
+        "en": "true of (sth)",
+        "ja": "～に当てはまる"
     },
     {
         "en": "",

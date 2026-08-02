@@ -4,6 +4,14 @@
         "ja": "～に適している"
     },
     {
+        "en": "bound for (sth)",
+        "ja": "～行きである"
+    },
+    {
+        "en": "desperate for (sth)",
+        "ja": "～を切望している、～が欲しくてたまらない"
+    },
+    {
         "en": "famous for (sth)",
         "ja": "〜で有名である"
     },
@@ -12,12 +20,36 @@
         "ja": "〜に感謝している"
     },
     {
+        "en": "intended for (sth)",
+        "ja": "～向けである"
+    },
+    {
         "en": "known for (sth)",
         "ja": "〜で知られている"
     },
     {
+        "en": "liable for (sth)",
+        "ja": "～に対して責任がある"
+    },
+    {
+        "en": "necessary for (sth)",
+        "ja": "～に必要である"
+    },
+    {
+        "en": "notable for (sth)",
+        "ja": "～で有名である"
+    },
+    {
+        "en": "qualified for (sth)",
+        "ja": "～に適任である"
+    },
+    {
         "en": "ready for (sth)",
         "ja": "〜の準備ができている"
+    },
+    {
+        "en": "redeemable for (sth)",
+        "ja": "～と交換可能である"
     },
     {
         "en": "responsible for (sth)",

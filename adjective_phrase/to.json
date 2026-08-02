@@ -16,8 +16,28 @@
         "ja": "～に引きつけられる"
     },
     {
+        "en": "available to (sth)",
+        "ja": "〜に利用できる"
+    },
+    {
+        "en": "blind to (sth)",
+        "ja": "～に盲目である"
+    },
+    {
         "en": "close to (sth)",
         "ja": "～の近くである"
+    },
+    {
+        "en": "committed to (sth)",
+        "ja": "～に熱心に取り組んでいる"
+    },
+    {
+        "en": "comparable to (sth)",
+        "ja": "～に匹敵する"
+    },
+    {
+        "en": "contrary to (sth)",
+        "ja": "～に反している"
     },
     {
         "en": "cruel to (sb)",
@@ -40,8 +60,24 @@
         "ja": "〜に親切である"
     },
     {
+        "en": "limited to (sth)",
+        "ja": "～に限られている"
+    },
+    {
+        "en": "loyal to (sth)",
+        "ja": "～に忠実である"
+    },
+    {
         "en": "married to (sb)",
         "ja": "〜と結婚している"
+    },
+    {
+        "en": "native to (sth)",
+        "ja": "～出身である"
+    },
+    {
+        "en": "peculiar to (sth)",
+        "ja": "～特有の、独特の"
     },
     {
         "en": "polite to (sb)",
@@ -60,12 +96,32 @@
         "ja": "～に関連している"
     },
     {
+        "en": "relevant to (sth)",
+        "ja": "～に関係がある"
+    },
+    {
         "en": "rude to (sb)",
         "ja": "〜に失礼である"
     },
     {
+        "en": "sensitive to (sth)",
+        "ja": "～に敏感である"
+    },
+    {
         "en": "similar to (sth)",
         "ja": "〜に似ている"
+    },
+    {
+        "en": "subject to (sth)",
+        "ja": "～の対象となる"
+    },
+    {
+        "en": "superior to (sth)",
+        "ja": "～より優れている"
+    },
+    {
+        "en": "used to (sth)",
+        "ja": "～に慣れている"
     },
     {
         "en": "",
