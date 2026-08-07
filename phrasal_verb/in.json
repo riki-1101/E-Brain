@@ -16,6 +16,14 @@
         "ja": "チェックインする"
     },
     {
+        "en": "clock in",
+        "ja": "タイムカードを押す"
+    },
+    {
+        "en": "deal in (sth)",
+        "ja": "（商品）を扱う"
+    },
+    {
         "en": "drop in",
         "ja": "立ち寄る "
     },
@@ -40,6 +48,10 @@
         "ja": "～に参加する"
     },
     {
+        "en": "persist in (sth)",
+        "ja": "～に固執する、頑固に～し続ける"
+    },
+    {
         "en": "play a role in (sth)",
         "ja": "～で役割を果たす"
     },
@@ -48,8 +60,20 @@
         "ja": "～を満喫する"
     },
     {
+        "en": "specialize in (sth)",
+        "ja": "～を専攻する"
+    },
+    {
         "en": "succeed in (sth)",
         "ja": "～に成功する"
+    },
+    {
+        "en": "take in (sth)",
+        "ja": "～を取り入れる、理解する、引き取る"
+    },
+    {
+        "en": "take in (sb)",
+        "ja": "～をだます"
     },
     {
         "en": "take part in (sth)",

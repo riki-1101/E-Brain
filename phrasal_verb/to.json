@@ -4,12 +4,20 @@
         "ja": "〜に適応する"
     },
     {
+        "en": "adhere to (sth)",
+        "ja": "～に忠実に従う"
+    },
+    {
         "en": "advance to (sth)",
         "ja": "～に前進する"
     },
     {
         "en": "apply to (sth)",
         "ja": "～に適用される、当てはまる"
+    },
+    {
+        "en": "attest to (sth)",
+        "ja": "～を証明する"
     },
     {
         "en": "come close to (doing)",
@@ -38,6 +46,10 @@
     {
         "en": "hang on to (sth)",
         "ja": "～を手放さない、～にしがみつく"
+    },
+    {
+        "en": "hold on to (sth)",
+        "ja": "～にしっかりつかまる、手放さない"
     },
     {
         "en": "lead to (sth)",
@@ -102,10 +114,6 @@
     {
         "en": "yield to (sth)",
         "ja": "(圧力や誘惑)～に屈する、負ける"
-    },
-    {
-        "en": "",
-        "ja": ""
     },
     {
         "en": "",
