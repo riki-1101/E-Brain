@@ -12,12 +12,24 @@
         "ja": "Aに～するように頼む"
     },
     {
+        "en": "authorize A to do",
+        "ja": "Aが～するのを許可する"
+    },
+    {
         "en": "cause A to do",
         "ja": "Aが～する原因となる"
     },
     {
         "en": "compel A to do",
         "ja": "Aに無理やり～させる"
+    },
+    {
+        "en": "convince A to do",
+        "ja": "Aを説得して～させる"
+    },
+    {
+        "en": "drive A to do",
+        "ja": "Aを追い込んで～させる"
     },
     {
         "en": "enable A to do",
@@ -29,7 +41,11 @@
     },
     {
         "en": "expect A to do",
-        "ja": "Aが～するのを期待する"
+        "ja": "Aが～すると予想する、期待する"
+    },
+    {
+        "en": "forbid A to do",
+        "ja": "Aが～するのを禁じる"
     },
     {
         "en": "force A to do",
@@ -40,6 +56,10 @@
         "ja": "Aに～させる"
     },
     {
+        "en": "hate A to do",
+        "ja": "Aが～するのを嫌う"
+    },
+    {
         "en": "have A do",
         "ja": "Aに～させる"
     },
@@ -48,16 +68,28 @@
         "ja": "Aが～するのを手伝う"
     },
     {
+        "en": "inspire A to do",
+        "ja": "Aを刺激して～する気にさせる"
+    },
+    {
         "en": "invite A to do",
-        "ja": "Aに～するよう勧める"
+        "ja": "Aを～するよう誘う"
     },
     {
         "en": "let A do",
         "ja": "Aに～させる、Aが～するのを許す"
     },
     {
+        "en": "like A to do",
+        "ja": "Aが～するのを好む"
+    },
+    {
         "en": "make A do",
         "ja": "Aに～させる（強制）"
+    },
+    {
+        "en": "need A to do",
+        "ja": "Aに～してもらう必要がある"
     },
     {
         "en": "oblige A to do",
@@ -76,8 +108,16 @@
         "ja": "Aを説得して～させる"
     },
     {
+        "en": "prefer A to do",
+        "ja": "Aに～してもらう方を好む"
+    },
+    {
+        "en": "prompt A to do",
+        "ja": "Aを促して～させる"
+    },
+    {
         "en": "recommend A to do",
-        "ja": "Aに～するよう勧める"
+        "ja": "Aに～するよう勧める（現代はあまり使われない）"
     },
     {
         "en": "remind A to do",
@@ -96,12 +136,20 @@
         "ja": "Aに～するように言う"
     },
     {
+        "en": "urge A to do",
+        "ja": "Aに～するよう強く促す"
+    },
+    {
         "en": "want A to do",
         "ja": "Aに～してほしい"
     },
     {
         "en": "warn A to do",
         "ja": "Aに～するよう警告する"
+    },
+    {
+        "en": "would like A to do",
+        "ja": "Aに～してほしい"
     },
     {
         "en": "",
