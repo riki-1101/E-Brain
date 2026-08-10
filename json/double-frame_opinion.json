@@ -180,6 +180,16 @@
         ]
     },
     {
+        "en": "I'll see to it that (SV)",
+        "ja": "～するようにする",
+        "ex": [
+            {
+                "en": "I'll see to it that the report is sent today.",
+                "ja": "報告書が今日送られるように手配します。"
+            }
+        ]
+    },
+    {
         "en": "I can't help but think (SV)",
         "ja": "どうしても～って考えちゃう",
         "ex": [
