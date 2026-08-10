@@ -1,0 +1,272 @@
+[
+    {
+        "en": "I think (SV)",
+        "ja": "（主観的に）～だと思う",
+        "ex": [
+            {
+                "en": "I think it's a good idea.",
+                "ja": "それはいい考えだと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I thought (SV)",
+        "ja": "（主観的に）～だと思った",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I believe (SV)",
+        "ja": "～だと信じる",
+        "ex": [
+            {
+                "en": "I believe we can win.",
+                "ja": "私たちは勝てると信じる。"
+            }
+        ]
+    },
+    {
+        "en": "I assume (SV)",
+        "ja": "～だと勝手に思い込む",
+        "ex": [
+            {
+                "en": "I assumed you knew.",
+                "ja": "あなたは知っていると勝手に思い込んだ。"
+            }
+        ]
+    },
+    {
+        "en": "I suppose (SV)",
+        "ja": "～だと推測する",
+        "ex": [
+            {
+                "en": "I suppose he's right.",
+                "ja": "彼は正しいと推測する。"
+            }
+        ]
+    },
+    {
+        "en": "I guess (SV)",
+        "ja": "多分～だと思う",
+        "ex": [
+            {
+                "en": "I guess you're busy.",
+                "ja": "多分あなたは忙しいだろうと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I bet (SV)",
+        "ja": "絶対～だと思う",
+        "ex": [
+            {
+                "en": "I bet you'll do great on the exam.",
+                "ja": "絶対あなたは試験が上手くいくと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I hope (SV)",
+        "ja": "～だといいな",
+        "ex": [
+            {
+                "en": "I hope you have a great day.",
+                "ja": "素敵な一日になるといいね。"
+            }
+        ]
+    },
+    {
+        "en": "I expect (SV)",
+        "ja": "～だと予想する",
+        "ex": [
+            {
+                "en": "I expect it'll rain.",
+                "ja": "雨が降ると予想する。"
+            }
+        ]
+    },
+    {
+        "en": "I imagine (SV)",
+        "ja": "～だと想像する",
+        "ex": [
+            {
+                "en": "I imagine that he's busy today.",
+                "ja": "彼は今日忙しいのだろうと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I suspect (SV)",
+        "ja": "～だと疑う",
+        "ex": [
+            {
+                "en": "I suspect he's lying.",
+                "ja": "彼が嘘をついていると疑う。"
+            }
+        ]
+    },
+    {
+        "en": "I doubt (SV)",
+        "ja": "～だとは思えない",
+        "ex": [
+            {
+                "en": "I doubt this plan wll work.",
+                "ja": "この計画がうまくいくとは思えない。"
+            }
+        ]
+    },
+    {
+        "en": "I promise (SV)",
+        "ja": "～だと約束する",
+        "ex": [
+            {
+                "en": "I promise I won't be late.",
+                "ja": "遅れないと約束する。"
+            }
+        ]
+    },
+    {
+        "en": "I swear (SV)",
+        "ja": "～だと誓う",
+        "ex": [
+            {
+                "en": "I swear I'll tell the truth.",
+                "ja": "真実を話すと誓う。"
+            }
+        ]
+    },
+    {
+        "en": "I stand by that (SV)",
+        "ja": "～だぞ！",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I feel (SV)",
+        "ja": "～と感じる",
+        "ex": [
+            {
+                "en": "I feel something is wrong.",
+                "ja": "何かが間違っていると感じる。"
+            }
+        ]
+    },
+    {
+        "en": "I feel like (SV)",
+        "ja": "なんか～な気がする",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'd say (SV)",
+        "ja": "私の考えでは～だと思うよ",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I can't help but think (SV)",
+        "ja": "どうしても～って考えちゃう",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I wonder if (SV)",
+        "ja": "～かなと思う",
+        "ex": [
+            {
+                "en": "I wonder if it's going to rain tomorrow.",
+                "ja": "明日雨が降るのかなあ。"
+            }
+        ]
+    },
+    {
+        "en": "I wonder whether (SV)",
+        "ja": "～かなと思う",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I wish (仮定法)",
+        "ja": "～であればいいのにと思う",
+        "ex": [
+            {
+                "en": "I wish I had more time.",
+                "ja": "もっと時間があればいいのにと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I'm sure (SV)",
+        "ja": "（直感で）～だと確信している",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm certain (SV)",
+        "ja": "（根拠を持って）～だと確信している",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm confident (SV)",
+        "ja": "～だと自信がある",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm afraid (SV)",
+        "ja": "残念ながら～だと思う",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "There is no doubt (SV)",
+        "ja": "～は間違いない",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]
