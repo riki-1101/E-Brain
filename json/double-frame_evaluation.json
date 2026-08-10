@@ -1,0 +1,192 @@
+[
+    {
+        "en": "It seems (SV)",
+        "ja": "～のように思える",
+        "ex": [
+            {
+                "en": "It seems he is busy.",
+                "ja": "彼は忙しいように思う。"
+            }
+        ]
+    },
+    {
+        "en": "It seems like (SV)",
+        "ja": "～のように思える",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It feels like (SV)",
+        "ja": "～のような感じだ",
+        "ex": [
+            {
+                "en": "It feels like time is flying.",
+                "ja": "時間があっという間に過ぎている感じがする。"
+            }
+        ]
+    },
+    {
+        "en": "It looks like (SV)",
+        "ja": "見た感じ～のようだ",
+        "ex": [
+            {
+                "en": "It looks like it's going to rain.",
+                "ja": "見た感じ、雨が降りそうだ。"
+            }
+        ]
+    },
+    {
+        "en": "It sounds like (SV)",
+        "ja": "～のように聞こえる",
+        "ex": [
+            {
+                "en": "It sounds like she's crying.",
+                "ja": "彼女、泣いているみたい。"
+            }
+        ]
+    },
+    {
+        "en": "It smells like (SV)",
+        "ja": "～ような匂いがする",
+        "ex": [
+            {
+                "en": "It smells like something is burning.",
+                "ja": "何かが焦げているような匂いがする。"
+            }
+        ]
+    },
+    {
+        "en": "It's like (SV)",
+        "ja": "～みたいだ",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's not like (SV)",
+        "ja": "別に～ってわけじゃない",
+        "ex": [
+            {
+                "en": "It's not like I don't trust you.",
+                "ja": "別に君を信じていないわけじゃないよ。"
+            }
+        ]
+    },
+    {
+        "en": "It's as if (SV)",
+        "ja": "まるで～かのようだ",
+        "ex": [
+            {
+                "en": "It's as if we're back in high school.",
+                "ja": "まるで高校時代に戻ったみたいだ。"
+            }
+        ]
+    },
+    {
+        "en": "It's as though (SV)",
+        "ja": "～かのようだ",
+        "ex": [
+            {
+                "en": "It's as though we've met before.",
+                "ja": "まるで前に会ったことがあるみたい。"
+            }
+        ]
+    },
+    {
+        "en": "It's said (SV)",
+        "ja": "～と言われている",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's true (SV)",
+        "ja": "～なのは事実だ",
+        "ex": [
+            {
+                "en": "It's true I don't have much experience, but I'm willing to learn.",
+                "ja": "経験が少ないのは事実だけど、学ぶ意欲はある。"
+            }
+        ]
+    },
+    {
+        "en": "It's clear (SV)",
+        "ja": "～なのは明らかだ",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's obvious (SV)",
+        "ja": "～なのは明らかだ",
+        "ex": [
+            {
+                "en": "It's obvious he likes her.",
+                "ja": "彼が彼女を好きなのは明らかだ。"
+            }
+        ]
+    },
+    {
+        "en": "It's natural (SV)",
+        "ja": "～なのは当然だ",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's strange (SV)",
+        "ja": "～なのは奇妙だ",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's possible (SV)",
+        "ja": "～の可能性がある",
+        "ex": [
+            {
+                "en": "It's possible the project will be delayed.",
+                "ja": "そのプロジェクトが遅れる可能性がある。"
+            }
+        ]
+    },
+    {
+        "en": "It's likely (SV)",
+        "ja": "～な気がする",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It's unlikely (SV)",
+        "ja": "～な気がしない",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]

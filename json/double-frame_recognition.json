@@ -1,0 +1,126 @@
+[
+    {
+        "en": "I know (SV)",
+        "ja": "～と知っている",
+        "ex": [
+            {
+                "en": "I know she's from Canada.",
+                "ja": "彼女はカナダ出身だと知っている。"
+            }
+        ]
+    },
+    {
+        "en": "I understand (SV)",
+        "ja": "～と理解している",
+        "ex": [
+            {
+                "en": "I understand you need more time.",
+                "ja": "あなたがもっと時間が必要なことを理解している。"
+            }
+        ]
+    },
+    {
+        "en": "I remember (SV)",
+        "ja": "～を覚えている",
+        "ex": [
+            {
+                "en": "I remember you told me that.",
+                "ja": "あなたがそれを私に言ったことを覚えている。"
+            }
+        ]
+    },
+    {
+        "en": "I forget (SV)",
+        "ja": "～を忘れてしまう",
+        "ex": [
+            {
+                "en": "I forget you don't drink coffee.",
+                "ja": "あなたがコーヒーを飲まないのを忘れてしまう。"
+            },
+            {
+                "en": "I forgot we had a meeting this morning.",
+                "ja": "今朝会議があったことを忘れていた。"
+            }
+        ]
+    },
+    {
+        "en": "I noticed (SV)",
+        "ja": "（五感で）～と気づいた",
+        "ex": [
+            {
+                "en": "I noticed he was upset.",
+                "ja": "彼は動揺していると気づいた。"
+            }
+        ]
+    },
+    {
+        "en": "I realized (SV)",
+        "ja": "（心の中で）～と気づいた",
+        "ex": [
+            {
+                "en": "I realized I made a mistake.",
+                "ja": "間違えたと気づいた。"
+            }
+        ]
+    },
+    {
+        "en": "I found (SV)",
+        "ja": "（経験して）～とわかった",
+        "ex": [
+            {
+                "en": "I found the book was very interesting.",
+                "ja": "その本がとても面白いことがわかった。"
+            }
+        ]
+    },
+    {
+        "en": "I recognize (SV)",
+        "ja": "～と認識している",
+        "ex": [
+            {
+                "en": "I recognize not everyone agrees with me.",
+                "ja": "全員が私に同意しているわけではないと認識している。"
+            }
+        ]
+    },
+    {
+        "en": "I discovered (SV)",
+        "ja": "～を発見した",
+        "ex": [
+            {
+                "en": "I discovered the store was closed on Mondays.",
+                "ja": "その店が月曜日に閉まっているのを知った。"
+            }
+        ]
+    },
+    {
+        "en": "I heard (SV)",
+        "ja": "～と聞いた",
+        "ex": [
+            {
+                "en": "I heard you got a new job.",
+                "ja": "新しい仕事に就いたと聞いた。"
+            }
+        ]
+    },
+    {
+        "en": "I'm aware (SV)",
+        "ja": "～と気づいている",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "It turns out (SV)",
+        "ja": "今になって～とわかった",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]
