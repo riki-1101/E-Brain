@@ -32,6 +32,10 @@
         "ja": "AとBを関連付ける"
     },
     {
+        "en": "balance A with B",
+        "ja": "AとBのバランスを取る"
+    },
+    {
         "en": "help A with B",
         "ja": "AをBのことで手助けする"
     },
