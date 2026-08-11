@@ -1,5 +1,9 @@
 [
     {
+        "en": "equip A with B",
+        "ja": "AにBを備える"
+    },
+    {
         "en": "present A with B",
         "ja": "AにBを贈る"
     },
@@ -12,15 +16,35 @@
         "ja": "AにBを与えて報いる"
     },
     {
+        "en": "serve A with B",
+        "ja": "AにB(飲食物)を出す"
+    },
+    {
         "en": "supply A with B",
         "ja": "AにBを供給する"
+    },
+
+
+
+
+    {
+        "en": "associate A with B",
+        "ja": "AとBを関連付ける"
+    },
+    {
+        "en": "help A with B",
+        "ja": "AをBのことで手助けする"
+    },
+    {
+        "en": "identify A with B",
+        "ja": "AとBを同一視する"
     },
     {
         "en": "share A with B",
         "ja": "AをBと共有する"
     },
     {
-        "en": "",
-        "ja": ""
+        "en": "replace A with B",
+        "ja": "AをBと置き換える"
     }
 ]
