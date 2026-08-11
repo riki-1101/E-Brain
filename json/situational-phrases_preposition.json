@@ -4,6 +4,10 @@
         "ja": "～に反対である"
     },
     {
+        "en": "at a loss",
+        "ja": "困っている、途方に暮れている"
+    },
+    {
         "en": "bad for (sth)",
         "ja": "～にとって有害である"
     },
@@ -28,12 +32,20 @@
         "ja": "～からである"
     },
     {
+        "en": "in a bad temper",
+        "ja": "機嫌が悪い"
+    },
+    {
         "en": "in a hurry",
         "ja": "急いでいる"
     },
     {
         "en": "in charge of (sth)",
         "ja": "～を担当している"
+    },
+    {
+        "en": "in common",
+        "ja": "共通である"
     },
     {
         "en": "in danger of (sth)",
@@ -50,6 +62,14 @@
     {
         "en": "in haste",
         "ja": "急いでいる"
+    },
+    {
+        "en": "in high spirits",
+        "ja": "上機嫌である"
+    },
+    {
+        "en": "in low spirits",
+        "ja": "意気消沈している"
     },
     {
         "en": "in place",
@@ -74,6 +94,10 @@
     {
         "en": "in the dark",
         "ja": "何も知らない"
+    },
+    {
+        "en": "in the habit of (doing)",
+        "ja": "～する習慣がある"
     },
     {
         "en": "in the middle of (sth)",
@@ -138,6 +162,10 @@
     {
         "en": "on sale",
         "ja": "セール中である"
+    },
+    {
+        "en": "on the line",
+        "ja": "電話に出ている"
     },
     {
         "en": "on the market",
