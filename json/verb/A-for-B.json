@@ -1,0 +1,30 @@
+[
+    {
+        "en": "allocate A for B",
+        "ja": "AをBに割り当てる"
+    },
+    {
+        "en": "blame A for B",
+        "ja": "AをBのことで非難する"
+    },
+    {
+        "en": "commend A for B",
+        "ja": "AをBのことで称賛する"
+    },
+    {
+        "en": "criticize A for B",
+        "ja": "AをBのことで批判する"
+    },
+    {
+        "en": "praise A for B",
+        "ja": "AをBのことで褒める"
+    },
+    {
+        "en": "punish A for B",
+        "ja": "AをBのことで罰する"
+    },
+    {
+        "en": "thank A for B",
+        "ja": "AをBのことで感謝する"
+    }
+]
