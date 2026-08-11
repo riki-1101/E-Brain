@@ -210,8 +210,28 @@
         ]
     },
     {
+        "en": "I was wondering if (SV)",
+        "ja": "～かなと思っていた",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
         "en": "I wonder whether (SV)",
         "ja": "～かなと思う",
+        "ex": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I was wondering whether (SV)",
+        "ja": "～かなと思っていた",
         "ex": [
             {
                 "en": "",
