@@ -12,7 +12,10 @@
         <ul id="phrase-list"></ul>
         <div id="popup">
             <div id="popup-content">
-                <p id="popup-en"></p>
+                <div id="popup-en-wrap">
+                    <p id="popup-en"></p>
+                    <button id="popup-speak" class="speak-btn">🔊</button>
+                </div>
                 <p id="popup-ja"></p>
                 <div id="popup-examples"></div>
                 <button id="close">×</button>
@@ -38,13 +41,16 @@
         const popup = document.getElementById("popup");
         const popupEn = document.getElementById("popup-en");
         const popupJa = document.getElementById("popup-ja");
-        const closeBtn = document.getElementById("close");
+        const popupSpeak = document.getElementById("popup-speak");
         const popupExamples = document.getElementById("popup-examples");
+        const closeBtn = document.getElementById("close");
+
+        let popupEnglish = "";
 
         function updateList(){
             ul.innerHTML = "";
-            jsonData
-            .forEach(item => {
+
+            jsonData.forEach(item => {
                 const li = document.createElement("li");
                 const en = document.createElement("div");
                 en.className = "en";
@@ -71,14 +77,17 @@
                 li.appendChild(speakBtn);
                 ul.appendChild(li);
 
+                // リストをクリック
                 li.addEventListener("click", () => {
+                    popupEnglish = item.en;
+
                     popupEn.textContent = item.en;
                     popupJa.textContent = item.ja;
 
                     // 以前の例文を削除
                     popupExamples.innerHTML = "";
 
-                    // ex が存在しない場合は空配列として扱う
+                    // ex が存在しない場合は空配列
                     const examples = item.ex || [];
 
                     examples.forEach(example => {
@@ -109,6 +118,11 @@
                 });
             });
         }
+
+        // ポップアップの英語を読み上げる
+        popupSpeak.addEventListener("click", () => {
+            speakEnglish(popupEnglish, popupEn);
+        });
 
         closeBtn.addEventListener("click", () => {
             popup.style.display = "none";

@@ -280,7 +280,12 @@ footer {
     font-size: 40px;
     cursor: pointer;
 }
-#list #popup #popup-content #popup-en {
+#list #popup #popup-content #popup-en-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#list #popup #popup-content #popup-en-wrap #popup-en {
     font-size: xx-large;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
