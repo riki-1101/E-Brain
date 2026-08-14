@@ -286,30 +286,33 @@ footer {
     gap: 10px;
 }
 #list #popup #popup-content #popup-en-wrap #popup-en {
+    margin: 0.5em 0;
     font-size: xx-large;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
 #list #popup #popup-content #popup-ja {
+    margin: 0;
     font-size: large;
 }
 #list #popup #popup-content #popup-examples {
-    margin-top: 20px;
+    margin-top: 2em;
 }
 #list #popup #popup-content #popup-examples .example {
-    margin-top: 20px;
+    margin: 0;
     padding: 1em;
     border-top: 1px solid #ddd;
     cursor: pointer;
 }
 #list #popup #popup-content #popup-examples .example .example-en {
     margin: 0;
-    font-weight: bold;
     font-size: x-large;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #list #popup #popup-content #popup-examples .example .example-ja {
     margin: 5px 0 0;
-    font-size: medium;
+    font-size: small;
 }
 #list #popup #popup-content #popup-examples .example.speaking {
     background-color: #e8f4ff;
