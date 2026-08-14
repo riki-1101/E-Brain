@@ -16,7 +16,7 @@ document.addEventListener("contextmenu", (e) => {
 
 
 // 共通の音声再生関数
-function speakEnglish(text) {
+function speakEnglish(text, element = null) {
     if (!text) return;
 
     // (sth),(sb)を変換
@@ -25,11 +25,39 @@ function speakEnglish(text) {
     // (sth),(sb)以外の不要な部分を削除
     text = text.replace(/(\(.*?\)|\[.*?\])/g, "").trim();
 
-    speechSynthesis.cancel();   // いったん完全に停止
-    setTimeout(() => {          // cancel直後を避ける
+    // 以前のハイライトを解除
+    document.querySelectorAll(".speaking").forEach(el => {
+        el.classList.remove("speaking");
+    });
+
+    speechSynthesis.cancel();
+
+    setTimeout(() => {
         const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = localStorage.getItem("selectedCountry") || "en-US";;
+        utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
         utterance.rate = 1.0;
+
+        // 読み上げ開始
+        utterance.onstart = () => {
+            if (element) {
+                element.classList.add("speaking");
+            }
+        };
+
+        // 読み上げ終了
+        utterance.onend = () => {
+            if (element) {
+                element.classList.remove("speaking");
+            }
+        };
+
+        // エラー時もハイライト解除
+        utterance.onerror = () => {
+            if (element) {
+                element.classList.remove("speaking");
+            }
+        };
+
         speechSynthesis.speak(utterance);
-    }, 100); // 50〜150ms で安定
+    }, 100);
 }

@@ -246,6 +246,9 @@ footer {
     color: #666;
     margin-top: 0.5em;
 }
+#list #phrase-list li.speaking {
+    border-color: #4da6ff;
+}
 .speak-btn {
     font-size: large;
     background: none;
@@ -290,8 +293,9 @@ footer {
 }
 #list #popup #popup-content #popup-examples .example {
     margin-top: 20px;
-    padding-top: 20px;
+    padding: 1em;
     border-top: 1px solid #ddd;
+    cursor: pointer;
 }
 #list #popup #popup-content #popup-examples .example .example-en {
     margin: 0;
@@ -301,6 +305,9 @@ footer {
 #list #popup #popup-content #popup-examples .example .example-ja {
     margin: 5px 0 0;
     font-size: medium;
+}
+#list #popup #popup-content #popup-examples .example.speaking {
+    background-color: #e8f4ff;
 }
 /* ポップアップ表示中はスクロールさせない */
 body.no-scroll {
