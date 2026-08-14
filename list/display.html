@@ -14,7 +14,8 @@
             <div id="popup-content">
                 <p id="popup-en"></p>
                 <p id="popup-ja"></p>
-                <button id="close">close</button>
+                <div id="popup-examples"></div>
+                <button id="close">×</button>
             </div>
         </div>
     </main>
@@ -37,8 +38,8 @@
         const popup = document.getElementById("popup");
         const popupEn = document.getElementById("popup-en");
         const popupJa = document.getElementById("popup-ja");
-        const speakBtn = document.getElementById("speak-btn");
         const closeBtn = document.getElementById("close");
+        const popupExamples = document.getElementById("popup-examples");
 
         function updateList(){
             ul.innerHTML = "";
@@ -68,25 +69,52 @@
                 textWrap.appendChild(ja);
                 li.appendChild(textWrap);
                 li.appendChild(speakBtn);
-                li.appendChild(speakBtn);
                 ul.appendChild(li);
 
                 li.addEventListener("click", () => {
                     popupEn.textContent = item.en;
                     popupJa.textContent = item.ja;
+
+                    // 以前の例文を削除
+                    popupExamples.innerHTML = "";
+
+                    // ex が存在しない場合は空配列として扱う
+                    const examples = item.ex || [];
+
+                    examples.forEach(example => {
+                        const exampleEn = document.createElement("p");
+                        exampleEn.className = "example-en";
+                        exampleEn.textContent = example.en;
+
+                        const exampleJa = document.createElement("p");
+                        exampleJa.className = "example-ja";
+                        exampleJa.textContent = example.ja;
+
+                        const exampleBlock = document.createElement("div");
+                        exampleBlock.className = "example";
+
+                        exampleBlock.appendChild(exampleEn);
+                        exampleBlock.appendChild(exampleJa);
+
+                        popupExamples.appendChild(exampleBlock);
+                    });
+
                     popup.style.display = "flex";
+                    document.body.classList.add("no-scroll");
                 });
             });
         }
 
         closeBtn.addEventListener("click", () => {
             popup.style.display = "none";
+            document.body.classList.remove("no-scroll");
         });
 
         // 背景クリックで閉じる
         popup.addEventListener("click", (e) => {
             if (e.target === popup) {
                 popup.style.display = "none";
+                document.body.classList.remove("no-scroll");
             }
         });
     </script>
