@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>リスト</title>
+    <meta name="robots" content="noindex, nofollow">
+    <title>選択画面</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header id="header"></header>
     <main id="select">
-        <h1>リスト</h1>
         <details>
             <summary>名詞</summary>
             <ul class="list">
@@ -67,6 +67,7 @@
                 <li id="question-frame/quantity">数量を尋ねる</li>
                 <li id="question-frame/degree">程度を尋ねる</li>
                 <li id="question-frame/choice">選択を尋ねる</li>
+                <li id="question-frame/impression">感想を尋ねる</li>
             </ul>
         </details>
         <details>
@@ -77,24 +78,68 @@
                 <li id="adverbial_expressions">副詞表現</li>
             </ul>
         </details>
+        <div id="navigation-popup" class="popup-overlay">
+            <div class="popup">
+                <button id="popup-close" class="popup-close">×</button>
+                <h2>学習モードを選択</h2>
+                <button id="list-button">一覧表示</button>
+                <button id="memorization-button">暗記練習</button>
+            </div>
+        </div>
     </main>
+    
     <footer id="footer"></footer>
     <script src="js/header.js"></script>
     <script src="js/footer.js"></script>
     <script src="js/script.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
-            const lists = document.querySelectorAll(".list");
-            lists.forEach(list => {
+
+            const popup = document.getElementById("navigation-popup");
+            const closeButton = document.getElementById("popup-close");
+            const listButton = document.getElementById("list-button");
+            const memorizationButton = document.getElementById("memorization-button");
+
+            let selectedId = null;
+
+            // liをクリック
+            document.querySelectorAll(".list").forEach(list => {
                 list.addEventListener("click", (e) => {
+
                     if (e.target.tagName === "LI") {
-                        const id = e.target.id;
-                        localStorage.setItem("selectedId_list", id);
-                        window.location.href = "list/display.html";
+                        selectedId = e.target.id;
+
+                        popup.classList.add("show");
                     }
+
                 });
             });
+
+            // リスト表示
+            listButton.addEventListener("click", () => {
+                localStorage.setItem("selectedId_list", selectedId);
+                window.location.href = "list/display.html";
+            });
+
+            // 暗記練習
+            memorizationButton.addEventListener("click", () => {
+                localStorage.setItem("selectedId_memorization", selectedId);
+                window.location.href = "memorization/display.html";
+            });
+
+            // ×ボタン
+            closeButton.addEventListener("click", () => {
+                popup.classList.remove("show");
+            });
+
+            // 背景クリックでも閉じる
+            popup.addEventListener("click", (e) => {
+                if (e.target === popup) {
+                    popup.classList.remove("show");
+                }
+            });
+
         });
-    </script>
+</script>
 </body>
 </html>

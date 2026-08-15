@@ -1,7 +1,7 @@
 const header = document.getElementById('header');
 if( header != null) {
     header.innerHTML = `
-    <div id="title"><a href="/E-Brain/index.html">English</a></div>
+    <div id="title"><a href="/E-Brain/index.html">E-Brain</a></div>
     <nav>
         <div class="hamburger">
             <span></span>
