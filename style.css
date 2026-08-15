@@ -186,6 +186,44 @@ footer {
 }
 
 
+/* 選択画面 */
+#select details {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+#select details summary {
+    cursor: pointer;
+    list-style: none;
+    align-items: center;
+    font-size: 25px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 4px;
+}
+#select details summary::before {
+    content: '▶ ';
+    transition: transform 0.2s ease;
+    display: inline-block;
+    margin-right: 10px;
+}
+#select details[open] summary::before {
+    transform: rotate(90deg);
+}
+#select details ul {
+    margin: 0 15px;
+}
+#select details ul li {
+    border-bottom: 1px solid gray;
+    height: 80px;
+    padding: 0 1em;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+
 /* 語彙リスト */
 #list #radio {
     display: flex;
