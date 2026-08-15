@@ -1,0 +1,83 @@
+[
+    {
+        "en": "Where's (sth)?",
+        "ja": "～はどこですか？",
+        "ex": [
+            {
+                "en": "Where's the closest pharmacy from here?",
+                "ja": "ここから一番近い薬局はどこですか？"
+            },
+            {
+                "en": "Where's everyone meeting?",
+                "ja": "どこに集まるの？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Where can I (do)?",
+        "ja": "どこで～できる？"
+    },
+    {
+        "en": "Where can I find (sth)?",
+        "ja": "～はどこにありますか？",
+        "ex": [
+            {
+                "en": "Where can I find a good restaurant?",
+                "ja": "どこに美味しいレストランがありますか？"
+            },
+            {
+                "en": "Where can I find a pharmacy?",
+                "ja": "薬局はどこにありますか？"
+            }
+        ]
+    },
+    {
+        "en": "Where should I (do)?",
+        "ja": "どこで～した方がいい？"
+    },
+    {
+        "en": "Where shall I (do)?",
+        "ja": "どこに～すればいい？"
+    },
+    {
+        "en": "Where am I supposed to (do)?",
+        "ja": "どこで～することになっていますか？",
+        "ex": [
+            {
+                "en": "Where am I supposed to park my car?",
+                "ja": "どこに車を駐車すればよいですか？"
+            },
+            {
+                "en": "Where am I supposed to meet him?",
+                "ja": "どこで彼と会うことになっていますか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Where did you (do)?",
+        "ja": "どこで～したの？"
+    },
+    {
+        "en": "Where will you (do)?",
+        "ja": "どこで～するつもり？"
+    },
+
+
+
+    {
+        "en": "On which floor is (sth)?",
+        "ja": "～は何階にありますか？",
+        "ex": [
+            {
+                "en": "On which floor is your office?",
+                "ja": "あなたのオフィスは何階にありますか？"
+            }
+        ]
+    }
+]

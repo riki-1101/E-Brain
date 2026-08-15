@@ -1,0 +1,54 @@
+[
+    {
+        "en": "What's it about?",
+        "ja": "それは何についてですか？"
+    },
+
+
+
+    {
+        "en": "What do I need to (do)?",
+        "ja": "何を～する必要がありますか？"
+    },
+    {
+        "en": "What should I (do)?",
+        "ja": "何を～すべきですか？",
+        "ex": [
+            {
+                "en": "What should I tell him?",
+                "ja": "彼に何と伝えればいい？"
+            }
+        ]
+    },
+
+
+    
+    {
+        "en": "What do you think of (sth)?",
+        "ja": "～についてどう思う？"
+    },
+    {
+        "en": "What would you like me to (do)?",
+        "ja": "私に何を～してほしいですか？",
+        "ex": [
+            {
+                "en": "What would you like me to bring to the meeting?",
+                "ja": "会議に何を持ってきてほしいですか？"
+            }
+        ]
+    },
+    {
+        "en": "What are your plans for (when)?",
+        "ja": "あなたの（いつ）の予定は？",
+        "ex": [
+            {
+                "en": "What are your plans for the weekend?",
+                "ja": "週末の予定は？"
+            },
+            {
+                "en": "What are your plans for tomorrow?",
+                "ja": "明日の予定は？"
+            }
+        ]
+    }
+]

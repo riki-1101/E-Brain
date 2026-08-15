@@ -1,0 +1,25 @@
+[
+    {
+        "en": "Which X V?",
+        "ja": "どのXが～しますか？",
+        "ex": [
+            {
+                "en": "Which train goes to Sydney?",
+                "ja": "どの電車がシドニーに行きますか？"
+            }
+        ]
+    },
+
+    
+
+    {
+        "en": "Would you rather (do) A or B?",
+        "ja": "AかBのどちらを～したいですか？",
+        "ex": [
+            {
+                "en": "Would you rather take a day off tomorrow or next Monday?",
+                "ja": "明日か来週の月曜日なら、どちらに休みを取りたいですか？"
+            }
+        ]
+    }
+]

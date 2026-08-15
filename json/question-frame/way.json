@@ -1,0 +1,77 @@
+[
+    {
+        "en": "How do I (do)?",
+        "ja": "どうやって～するの？"
+    },
+    {
+        "en": "How can I (do)?",
+        "ja": "どうやって～できる？",
+        "ex": [
+            {
+                "en": "How can I help you?",
+                "ja": "何かお手伝いしましょうか？"
+            },
+            {
+                "en": "How can I get to the station?",
+                "ja": "駅へはどう行けばいいですか？"
+            },
+            {
+                "en": "How can I say this in English?",
+                "ja": "これを英語で何と言えばいいですか？"
+            },
+            {
+                "en": "How can I fix this problem?",
+                "ja": "この問題をどう解決できますか？"
+            },
+            {
+                "en": "How can I cancel my order?",
+                "ja": "注文をキャンセルするにはどうすればいいですか？"
+            }
+        ]
+    },
+    {
+        "en": "How can I tell that (SV)",
+        "ja": "～かはどうしたらわかる？"
+    },
+    {
+        "en": "How can I tell if (SV)",
+        "ja": "～かどうかはどうしたらわかる？"
+    },
+    {
+        "en": "How can I tell whether (SV)",
+        "ja": "～かどうかはどうしたらわかる？"
+    },
+    {
+        "en": "How should I (do)?",
+        "ja": "どうやって～した方がいい？"
+    },
+
+
+
+    {
+        "en": "How did you (do)?",
+        "ja": "どうやって～したの？",
+        "ex": [
+            {
+                "en": "How did you do that?",
+                "ja": "どうやったの？"
+            },
+            {
+                "en": "How did you find it?",
+                "ja": "それどうだった？"
+            },
+            {
+                "en": "How did you know?",
+                "ja": "どうして知っていたの？"
+            },
+            {
+                "en": "How did you get here?",
+                "ja": "どうやってここまで来たの？"
+            },
+            {
+                "en": "How did you come up with the idea?",
+                "ja": "どうやってそのアイデアを思いついたの？"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Why is X (C)?",
+        "ja": "なぜXは（～状態）なの？",
+        "ex": [
+            {
+                "en": "Why is everyone late?",
+                "ja": "なぜみんな遅刻しているの？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Why do I have to (do)?",
+        "ja": "なんで～しなきゃいけないの？"
+    },
+    {
+        "en": "Why can't I (do)?",
+        "ja": "なんで私～できないの？"
+    },
+
+
+
+    {
+        "en": "Why did you (do)?",
+        "ja": "どうして～したの？"
+    },
+    {
+        "en": "Why didn't you (do)?",
+        "ja": "なんで～してくれなかったの？"
+    },
+    {
+        "en": "What made you (do)?",
+        "ja": "どういうきっかけで～したの？"
+    },
+
+
+
+    {
+        "en": "Why hasn't (sth) (done)?",
+        "ja": "なぜsthは～していないの？",
+        "ex": [
+            {
+                "en": "Why hasn't the meeting started yet?",
+                "ja": "なぜ会議はまだ始まっていないの？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "How can you tell?",
+        "ja": "どうしてわかったの？"
+    },
+    {
+        "en": "How come (SV)?",
+        "ja": "なんで～なの？"
+    }
+]

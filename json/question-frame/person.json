@@ -1,0 +1,49 @@
+[
+    {
+        "en": "Who is X?",
+        "ja": "Xは誰ですか？",
+        "ex": [
+            {
+                "en": "Who is the sales manager?",
+                "ja": "営業部長は誰ですか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Who (did)?",
+        "ja": "誰が～したの？",
+        "ex": [
+            {
+                "en": "Who broke the window?",
+                "ja": "誰が窓を割ったの？"
+            },
+            {
+                "en": "Who won the game?",
+                "ja": "誰がその試合に勝ったの？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Who can (do)?",
+        "ja": "誰が～できるの？"
+    },
+
+
+
+    {
+        "en": "Whose turn is it to (do)?",
+        "ja": "～するのは誰の番ですか？",
+        "ex": [
+            {
+                "en": "Whose turn is it to act as union representative?",
+                "ja": "労働組合の代表を務めるのは誰の番ですか？"
+            }
+        ]
+    }
+]

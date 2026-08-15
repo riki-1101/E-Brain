@@ -1,0 +1,69 @@
+[
+    {
+        "en": "When can I (do)?",
+        "ja": "いつ～できる？"
+    },
+    {
+        "en": "When should I (do)?",
+        "ja": "いつ～した方がいい？"
+    },
+
+
+    
+    {
+        "en": "When did you (do)?",
+        "ja": "いつ～したの？",
+        "ex": [
+            {
+                "en": "When did you submit the report?",
+                "ja": "レポートをいつ提出したの？"
+            }
+        ]
+    },
+    {
+        "en": "When will you (do)?",
+        "ja": "いつ～するつもり？"
+    },
+    {
+        "en": "What time will you (do)?",
+        "ja": "いつ～するの？"
+    },
+
+
+
+    {
+        "en": "When is X (C)?",
+        "ja": "いつ（～状態）になる？"
+    },
+    {
+        "en": "When is (sth) happening?",
+        "ja": "～はいつ行われますか？",
+        "ex": [
+            {
+                "en": "When is the meeting happening?",
+                "ja": "会議はいつ行われますか？"
+            },
+            {
+                "en": "When is the interview happening?",
+                "ja": "面接はいつ行われますか？"
+            },
+            {
+                "en": "When is the festival happening?",
+                "ja": "そのお祭りはいつ行われますか？"
+            },
+            {
+                "en": "When is the wedding happening?",
+                "ja": "結婚式はいつ行われますか？"
+            },
+            {
+                "en": "When is the next game happening?",
+                "ja": "次の試合はいつ行われますか？"
+            }
+        ]
+    },
+
+    {
+        "en": "When does X (do)?",
+        "ja": "Xはいつ～しますか？"
+    }
+]
