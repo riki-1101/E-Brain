@@ -1,0 +1,40 @@
+[
+    {
+        "en": "Do I have to (do)?",
+        "ja": "私って～しないといけない？"
+    },
+    {
+        "en": "Do I need to (do)?",
+        "ja": "私って～する必要ある？"
+    },
+
+
+
+    {
+        "en": "Should I (do)?",
+        "ja": "～した方がいい？",
+        "ex": [
+            {
+                "en": "Should I dress formally for the reception?",
+                "ja": "歓迎会にはフォーマルな格好をした方がいい？"
+            }
+        ]
+    },
+    {
+        "en": "Should X be (done)?",
+        "ja": "Xは～する必要がある？",
+        "ex": [
+            {
+                "en": "Should the application be submitted by Friday?",
+                "ja": "申請書は金曜日までに提出する必要がありますか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Must I (do)?",
+        "ja": "～しないといけませんか？"
+    }
+]
