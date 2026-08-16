@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Can I (do)?",
+        "ja": "～してもいい？"
+    },
+    {
+        "en": "Can I still (do)?",
+        "ja": "まだ～できる？"
+    },
+
+
+
+    {
+        "en": "Could I (do)?",
+        "ja": "～してもいいですか？",
+        "ex": [
+            {
+                "en": "Could I ask a question?",
+                "ja": "質問してもいいですか？"
+            },
+            {
+                "en": "Could I have a check, please?",
+                "ja": "お会計をお願いできますか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "May I (do)?",
+        "ja": "～してもよろしいですか？"
+    },
+
+
+
+    {
+        "en": "Do you mind if I (do)?",
+        "ja": "～しても構いませんか？",
+        "ex": [
+            {
+                "en": "Do you mind if I borrow your dictionary?",
+                "ja": "辞書をお借りしてもよろしいですか？"
+            }
+        ]
+    }
+]

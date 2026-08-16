@@ -1,0 +1,47 @@
+[
+    {
+        "en": "How was (sth)?",
+        "ja": "～はどうだった？（感想）",
+        "ex": [
+            {
+                "en": "How was your day?",
+                "ja": "今日はどうだった？"
+            },
+            {
+                "en": "How was your weekend?",
+                "ja": "週末はどうだった？"
+            },
+            {
+                "en": "How was the movie?",
+                "ja": "映画はどうだった？"
+            },
+            {
+                "en": "How was your trip?",
+                "ja": "旅行はどうだった？"
+            },
+            {
+                "en": "How was the meeting?",
+                "ja": "会議はどうだった？"
+            }
+        ]
+    },
+
+    {
+        "en": "How did (sth) go?",
+        "ja": "～はどうだった？（結果・進行状況）",
+        "ex": [
+            {
+                "en": "How did the exam go?",
+                "ja": "試験はどうだった？"
+            },
+            {
+                "en": "How did the interview go?",
+                "ja": "面接はどうだった？"
+            },
+            {
+                "en": "How did the event go?",
+                "ja": "イベントはどうだった？"
+            }
+        ]
+    }
+]

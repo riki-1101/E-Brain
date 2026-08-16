@@ -1,0 +1,71 @@
+[
+    {
+        "en": "Do you want me to (do)?",
+        "ja": "～しましょうか？"
+    },
+
+
+
+    {
+        "en": "Would you like me to (do)?",
+        "ja": "～しましょうか？"
+    },
+
+
+
+    {
+        "en": "Shall I (do)?",
+        "ja": "～しましょうか？"
+    },
+    {
+        "en": "Shall we (do)?",
+        "ja": "～しませんか？",
+        "ex": [
+            {
+                "en": "Shall we move on to the next topic?",
+                "ja": "次の話題に移りませんか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "What do you say to (doing)?",
+        "ja": "～するのはどう？"
+    },
+
+
+
+    {
+        "en": "Why don't you (do)?",
+        "ja": "～してはいかがですか？",
+        "ex": [
+            {
+                "en": "Why don't you ask her?",
+                "ja": "彼女に聞いたらどうですか？"
+            }
+        ]
+    },
+    {
+        "en": "Why don't we (do)?",
+        "ja": "～しようよ"
+    },
+    {
+        "en": "Why not (do)?",
+        "ja": "～したら？"
+    },
+
+
+
+    {
+        "en": "How about (sth)?",
+        "ja": "～するのはどう？",
+        "ex": [
+            {
+                "en": "How about getting some coffee?",
+                "ja": "コーヒーを買うのはどうですか？"
+            }
+        ]
+    }
+]
