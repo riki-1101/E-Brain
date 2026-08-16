@@ -10,6 +10,16 @@
         ]
     },
 
+    {
+        "en": "Would you like A or B?",
+        "ja": "AかBのどちらがいいですか？",
+        "ex": [
+            {
+                "en": "Would you like a cup of tea or coffee?",
+                "ja": "紅茶かコーヒーのどちらがよろしいですか？"
+            }
+        ]
+    },
     
 
     {
@@ -19,6 +29,10 @@
             {
                 "en": "Would you rather take a day off tomorrow or next Monday?",
                 "ja": "明日か来週の月曜日なら、どちらに休みを取りたいですか？"
+            },
+            {
+                "en": "Would you rather work the early shift or late shift?",
+                "ja": "早番と遅番のどちらがいいですか？"
             }
         ]
     }

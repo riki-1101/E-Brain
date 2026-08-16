@@ -1,7 +1,13 @@
 [
     {
         "en": "Could you (do)?",
-        "ja": "～してくれる？"
+        "ja": "～してくれる？",
+        "ex": [
+            {
+                "en": "Could you set up the meeting room?",
+                "ja": "会議室の準備をしてくれませんか？"
+            }
+        ]
     },
     {
         "en": "Could you go (do)?",

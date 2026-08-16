@@ -3,12 +3,22 @@
         "en": "Do you want me to (do)?",
         "ja": "～しましょうか？"
     },
+    {
+        "en": "Would you like me to (do)?",
+        "ja": "～しましょうか？"
+    },
 
 
 
     {
-        "en": "Would you like me to (do)?",
-        "ja": "～しましょうか？"
+        "en": "Can we (do)?",
+        "ja": "～しませんか？",
+        "ex": [
+            {
+                "en": "Can we go to that restaurant today?",
+                "ja": "今日あのレストランに行きませんか？"
+            }
+        ]
     },
 
 
@@ -24,6 +34,10 @@
             {
                 "en": "Shall we move on to the next topic?",
                 "ja": "次の話題に移りませんか？"
+            },
+            {
+                "en": "Shall we stop by a café?",
+                "ja": "カフェに寄りませんか？"
             }
         ]
     },

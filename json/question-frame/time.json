@@ -1,5 +1,18 @@
 [
     {
+        "en": "When is the deadline for (sth)?",
+        "ja": "～の締め切りはいつ？",
+        "ex": [
+            {
+                "en": "When is the deadline for the report?",
+                "ja": "レポートの締め切りはいつ？"
+            }
+        ]
+    },
+
+
+
+    {
         "en": "When can I (do)?",
         "ja": "いつ～できる？"
     },
@@ -26,7 +39,13 @@
     },
     {
         "en": "When will you (do)?",
-        "ja": "いつ～するつもり？"
+        "ja": "いつ～するつもり？",
+        "ex": [
+            {
+                "en": "When will you move to your new apartment?",
+                "ja": "いつ新しいアパートに引っ越すの？"
+            }
+        ]
     },
     {
         "en": "What time will you (do)?",

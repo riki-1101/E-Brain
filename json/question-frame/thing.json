@@ -13,6 +13,26 @@
             }
         ]
     },
+    {
+        "en": "What's your (sth)?",
+        "ja": "あなたの～は何ですか？",
+        "ex": [
+            {
+                "en": "What's your profession?",
+                "ja": "あなたの職業は何ですか？"
+            }
+        ]
+    },
+    {
+        "en": "What's the name of (sth)?",
+        "ja": "～の名前は何ですか？",
+        "ex": [
+            {
+                "en": "What's the name of that department store?",
+                "ja": "あのデパートの名前は何ですか？"
+            }
+        ]
+    },
     
 
 

@@ -9,6 +9,16 @@
             }
         ]
     },
+    {
+        "en": "Who's coming to (sth)?",
+        "ja": "誰が～に来ますか？",
+        "ex": [
+            {
+                "en": "Who's coming to the farewell party?",
+                "ja": "誰が送別会に来ますか？"
+            }
+        ]
+    },
 
 
 
@@ -36,6 +46,16 @@
 
 
 
+    {
+        "en": "Whose X is this?",
+        "ja": "これは誰のXですか？",
+        "ex": [
+            {
+                "en": "Whose book is this?",
+                "ja": "これは誰の本ですか？"
+            }
+        ]
+    },
     {
         "en": "Whose turn is it to (do)?",
         "ja": "～するのは誰の番ですか？",

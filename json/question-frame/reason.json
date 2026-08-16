@@ -17,6 +17,16 @@
         "ja": "なんで～しなきゃいけないの？"
     },
     {
+        "en": "Why do we have to (do)?",
+        "ja": "なんで～しなきゃいけないの？",
+        "ex": [
+            {
+                "en": "Why do we have to move these desks?",
+                "ja": "なんでこれらの机を動かさなければならないの？"
+            }
+        ]
+    },
+    {
         "en": "Why can't I (do)?",
         "ja": "なんで私～できないの？"
     },
@@ -57,6 +67,16 @@
     },
     {
         "en": "How come (SV)?",
-        "ja": "なんで～なの？"
+        "ja": "どうして～なの？",
+        "ex": [
+            {
+                "en": "How come you weren't at the meeting?",
+                "ja": "どうして会議にいなかったの？"
+            },
+            {
+                "en": "When did you go there?",
+                "ja": "いつそこに行きましたか？"
+            }
+        ]
     }
 ]

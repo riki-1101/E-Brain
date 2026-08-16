@@ -31,6 +31,20 @@
             {
                 "en": "Where can I find a pharmacy?",
                 "ja": "薬局はどこにありますか？"
+            },
+            {
+                "en": "Where can I find a new binder?",
+                "ja": "新しいバインダーはどこにありますか？"
+            }
+        ]
+    },
+    {
+        "en": "Where can I get (sth)?",
+        "ja": "～はどこで手に入りますか？",
+        "ex": [
+            {
+                "en": "Where can I get the registration form?",
+                "ja": "登録用紙はどこで手に入りますか？"
             }
         ]
     },

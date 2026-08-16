@@ -1,5 +1,18 @@
 [
     {
+        "en": "Did you like (sth)?",
+        "ja": "～は気に入った？",
+        "ex": [
+            {
+                "en": "Did you like the festival yesterday?",
+                "ja": "昨日のお祭りは気に入った？"
+            }
+        ]
+    },
+
+
+
+    {
         "en": "How was (sth)?",
         "ja": "～はどうだった？（感想）",
         "ex": [
@@ -22,6 +35,10 @@
             {
                 "en": "How was the meeting?",
                 "ja": "会議はどうだった？"
+            },
+            {
+                "en": "How was the reception?",
+                "ja": "歓迎会はどうだった？"
             }
         ]
     },
