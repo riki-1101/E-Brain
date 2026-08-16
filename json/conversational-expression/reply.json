@@ -76,6 +76,10 @@
         "ja": "了解、わかったよ。"
     },
     {
+        "en": "How do you know that?",
+        "ja": "どうしてそうだと言えるの？"
+    },
+    {
         "en": "I did.",
         "ja": "私がしたよ。"
     },
@@ -102,6 +106,10 @@
     {
         "en": "I have to go now.",
         "ja": "もう行かないといけない。"
+    },
+    {
+        "en": "I haven't got a clue.",
+        "ja": "まったく見当がつかない。"
     },
     {
         "en": "I know how you feel.",
