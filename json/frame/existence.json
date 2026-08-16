@@ -1,0 +1,85 @@
+[
+    {
+        "en": "There's (sth)",
+        "ja": "～がある（単数）"
+    },
+    {
+        "en": "There are (sths)",
+        "ja": "～がある（複数）",
+        "ex": [
+            {
+                "en": "There are two of them.",
+                "ja": "それらは２つあります。"
+            }
+        ]
+    },
+    {
+        "en": "There is no (U-sth)",
+        "ja": "～がない（不可算）"
+    },
+    {
+        "en": "There are no (C-sth)",
+        "ja": "～がない（可算）"
+    },
+    {
+        "en": "There can be (sth)",
+        "ja": "～があるのもあり得る"
+    },
+    {
+        "en": "There could be (sth)",
+        "ja": "～がある可能性がある"
+    },
+    {
+        "en": "There will be (sth)",
+        "ja": "～があるだろう"
+    },
+    {
+        "en": "There won't be any (sths)",
+        "ja": "～がないだろう"
+    },
+    {
+        "en": "There would be (sth)",
+        "ja": "～があるだろうなあ（仮定）"
+    },
+    {
+        "en": "There may be (sth)",
+        "ja": "～があるかもしれない"
+    },
+    {
+        "en": "There might be (sth)",
+        "ja": "もしかしたら～があるかも"
+    },
+    {
+        "en": "There must be (sth)",
+        "ja": "～があるに違いない"
+    },
+    {
+        "en": "There should be (sth)",
+        "ja": "～があるはずだ"
+    },
+    {
+        "en": "There used to be (sth)",
+        "ja": "かつて～があった"
+    },
+    {
+        "en": "There is nothing like (sth)",
+        "ja": "～に勝るものはない"
+    },
+
+
+    
+    {
+        "en": "I have (sth)",
+        "ja": "私は～があります",
+        "ex": [
+            {
+                "en": "I have a copy for you.",
+                "ja": "あなたのためのコピーがあります。"
+            }
+        ]
+    },
+    {
+        "en": "We have (sth)",
+        "ja": "私たちは～があります"
+    }
+]

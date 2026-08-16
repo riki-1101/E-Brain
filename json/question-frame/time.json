@@ -17,6 +17,10 @@
             {
                 "en": "When did you submit the report?",
                 "ja": "レポートをいつ提出したの？"
+            },
+            {
+                "en": "When did you go there?",
+                "ja": "いつそこに行きましたか？"
             }
         ]
     },

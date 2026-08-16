@@ -1,9 +1,19 @@
 [
     {
-        "en": "What's it about?",
-        "ja": "それは何についてですか？"
+        "en": "What is (sth)?",
+        "ja": "～は何ですか？",
+        "ex": [
+            {
+                "en": "What's it about?",
+                "ja": "それは何についてですか？"
+            },
+            {
+                "en": "What's your last name?",
+                "ja": "あなたの名字は何ですか？"
+            }
+        ]
     },
-
+    
 
 
     {
