@@ -1,0 +1,78 @@
+[
+    {
+        "en": "Do you want me to (do)?",
+        "ja": "～しようか？",
+        "ex": [
+            {
+                "en": "Do you want me to help?",
+                "ja": "手伝おうか？"
+            },
+            {
+                "en": "Do you want me to drive?",
+                "ja": "私が運転しようか？"
+            },
+            {
+                "en": "Do you want me to make dinner?",
+                "ja": "夕食を作ろうか？"
+            },
+            {
+                "en": "Do you want me to come?",
+                "ja": "そちらへ行こうか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Would you like me to (do)?",
+        "ja": "～しましょうか？",
+        "ex": [
+            {
+                "en": "Would you like me to help you?",
+                "ja": "お手伝いしましょうか？"
+            },
+            {
+                "en": "Would you like me to call a taxi?",
+                "ja": "タクシーを呼びましょうか？"
+            },
+            {
+                "en": "Would you like me to check the data?",
+                "ja": "データを確認しましょうか？"
+            },
+            {
+                "en": "Would you like me to send the file?",
+                "ja": "ファイルをお送りしましょうか？"
+            }
+        ]
+    },
+
+
+
+    {
+        "en": "Shall I (do)?",
+        "ja": "～しましょうか？",
+        "ex": [
+            {
+                "en": "Shall I open the window?",
+                "ja": "窓を開けましょうか？"
+            },
+            {
+                "en": "Shall I carry your bag?",
+                "ja": "カバンを持ちましょうか？"
+            },
+            {
+                "en": "Shall I make some coffee?",
+                "ja": "コーヒーを入れましょうか？"
+            },
+            {
+                "en": "Shall I turn off the lights?",
+                "ja": "電気を消しましょうか？"
+            },
+            {
+                "en": "Shall I reschedule the meeting?",
+                "ja": "会議の日程を改めましょうか？"
+            }
+        ]
+    }
+]

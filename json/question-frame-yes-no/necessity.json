@@ -1,11 +1,47 @@
 [
     {
         "en": "Do I have to (do)?",
-        "ja": "私って～しないといけない？"
+        "ja": "私って～しないといけない？",
+        "ex": [
+            {
+                "en": "Do I have to wash the dishes?",
+                "ja": "皿洗いをしないといけない？"
+            },
+            {
+                "en": "Do I have to take this medicine?",
+                "ja": "この薬を飲まないといけない？"
+            },
+            {
+                "en": "Do I have to take off my shoes?",
+                "ja": "靴を脱がないといけない？"
+            },
+            {
+                "en": "Do I have to show my passport?",
+                "ja": "パスポートを見せないといけない？"
+            },
+            {
+                "en": "Do I have to pay extra?",
+                "ja": "追加料金を払わないといけない？"
+            }
+        ]
     },
     {
         "en": "Do I need to (do)?",
-        "ja": "私って～する必要ある？"
+        "ja": "私って～する必要ある？",
+        "ex": [
+            {
+                "en": "Do I need to bring anything?",
+                "ja": "何か持って行く必要がありますか？"
+            },
+            {
+                "en": "Do I need to book a ticket?",
+                "ja": "チケットを予約する必要がありますか？"
+            },
+            {
+                "en": "Do I need to come early?",
+                "ja": "早く来る必要がありますか？"
+            }
+        ]
     },
 
 
@@ -15,6 +51,18 @@
         "ja": "～した方がいい？",
         "ex": [
             {
+                "en": "Should I call a doctor?",
+                "ja": "医者を呼んだ方がいいですか？"
+            },
+            {
+                "en": "Should I buy this one?",
+                "ja": "これを買った方がいいですか？"
+            },
+            {
+                "en": "Should I send this email now?",
+                "ja": "このメールを今送った方がいいですか？"
+            },
+            {
                 "en": "Should I dress formally for the reception?",
                 "ja": "歓迎会にはフォーマルな格好をした方がいい？"
             }
@@ -22,8 +70,12 @@
     },
     {
         "en": "Should X be (done)?",
-        "ja": "Xは～する必要がある？",
+        "ja": "Xは～される必要がある？",
         "ex": [
+            {
+                "en": "Should this information be public?",
+                "ja": "この情報は公表される必要がありますか？"
+            },
             {
                 "en": "Should the application be submitted by Friday?",
                 "ja": "申請書は金曜日までに提出する必要がありますか？"
@@ -35,6 +87,16 @@
 
     {
         "en": "Must I (do)?",
-        "ja": "～しないといけませんか？"
+        "ja": "～しないといけませんか？",
+        "ex": [
+            {
+                "en": "Must I submit this report today?",
+                "ja": "このレポートを今日提出しないといけませんか？"
+            },
+            {
+                "en": "Must I wear a suit to the party?",
+                "ja": "パーティーにはスーツを着ていかなければなりませんか？"
+            }
+        ]
     }
 ]
