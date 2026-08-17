@@ -1,5 +1,9 @@
 [
     {
+        "en": "agree with (sth)",
+        "ja": "～に同意する"
+    },
+    {
         "en": "argue with (sb)",
         "ja": "～と議論する"
     },
@@ -56,6 +60,10 @@
         "ja": "～とは全く関係がない"
     },
     {
+        "en": "interfere with (sth)",
+        "ja": "～を妨害する"
+    },
+    {
         "en": "keep in touch with (sb)",
         "ja": "～と連絡を保つ"
     },
@@ -90,6 +98,10 @@
     {
         "en": "start with (sth)",
         "ja": "～から始める"
+    },
+    {
+        "en": "sympathize with (sth)",
+        "ja": "～に同情する"
     },
     {
         "en": "touch base with (sb)",
