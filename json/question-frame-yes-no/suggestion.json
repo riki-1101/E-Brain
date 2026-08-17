@@ -1,16 +1,5 @@
 [
     {
-        "en": "Do you want me to (do)?",
-        "ja": "～しましょうか？"
-    },
-    {
-        "en": "Would you like me to (do)?",
-        "ja": "～しましょうか？"
-    },
-
-
-
-    {
         "en": "Can we (do)?",
         "ja": "～しませんか？",
         "ex": [
@@ -24,9 +13,26 @@
 
 
     {
-        "en": "Shall I (do)?",
-        "ja": "～しましょうか？"
+        "en": "May I interest you in (sth)?",
+        "ja": "～はいかがですか？（興味はございますか？）",
+        "ex": [
+            {
+                "en": "May I interest you in some dessert?",
+                "ja": "デザートはいかがですか？"
+            },
+            {
+                "en": "May I interest you in another cup of coffee?",
+                "ja": "コーヒーをもう一杯いかがですか？"
+            },
+            {
+                "en": "May I interest you in our store credit card?",
+                "ja": "当店のクレジットカードにご興味はございませんか？"
+            }
+        ]
     },
+
+
+
     {
         "en": "Shall we (do)?",
         "ja": "～しませんか？",
@@ -45,8 +51,22 @@
 
 
     {
-        "en": "What do you say to (doing)?",
-        "ja": "～するのはどう？"
+        "en": "What do you say to (sth)?",
+        "ja": "～はどうですか？",
+        "ex": [
+            {
+                "en": "What do you say to a cup of coffee?",
+                "ja": "コーヒーを一杯いかがですか？"
+            },
+            {
+                "en": "What do you say to going for a walk?",
+                "ja": "散歩に行きませんか？"
+            },
+            {
+                "en": "What do you say to taking a short break?",
+                "ja": "少し休憩しませんか？"
+            }
+        ]
     },
 
 
@@ -57,28 +77,80 @@
         "ex": [
             {
                 "en": "Why don't you ask her?",
-                "ja": "彼女に聞いたらどうですか？"
+                "ja": "彼女に聞いたら？"
+            },
+            {
+                "en": "Why don't you call him?",
+                "ja": "彼に電話してみたら？"
+            },
+            {
+                "en": "Why don't you take a rest?",
+                "ja": "少し休んだら？"
+            },
+            {
+                "en": "Why don't you join us?",
+                "ja": "一緒にどうですか？"
+            },
+            {
+                "en": "Why don't you buy a new phone?",
+                "ja": "新しい携帯を買ったらどう？"
             }
         ]
     },
     {
         "en": "Why don't we (do)?",
-        "ja": "～しようよ"
+        "ja": "～しようよ",
+        "ex": [
+            {
+                "en": "Why don't we eat?",
+                "ja": "ご飯にしない？"
+            },
+            {
+                "en": "Why don't we go together?",
+                "ja": "一緒に行かない？"
+            },
+            {
+                "en": "Why don't we take a break?",
+                "ja": "少し休まない？"
+            }
+        ]
     },
     {
         "en": "Why not (do)?",
-        "ja": "～したら？"
+        "ja": "～したら？",
+        "ex": [
+            {
+                "en": "Why not take a break?",
+                "ja": "休憩したら？"
+            },
+            {
+                "en": "Why not try this cake?",
+                "ja": "このケーキ食べてみたら？"
+            },
+            {
+                "en": "Why not call him?",
+                "ja": "彼に電話したら？"
+            }
+        ]
     },
 
 
 
     {
         "en": "How about (sth)?",
-        "ja": "～するのはどう？",
+        "ja": "～はどうですか？",
         "ex": [
             {
                 "en": "How about getting some coffee?",
                 "ja": "コーヒーを買うのはどうですか？"
+            },
+            {
+                "en": "How about lunch?",
+                "ja": "お昼ご飯はどう？"
+            },
+            {
+                "en": "How about this book?",
+                "ja": "この本はどうですか？"
             }
         ]
     }
