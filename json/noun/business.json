@@ -156,6 +156,10 @@
         "ja": "業務、課題"
     },
     {
+        "en": "assistance",
+        "ja": "援助"
+    },
+    {
         "en": "assumption",
         "ja": "前提条件"
     },
@@ -178,6 +182,10 @@
     {
         "en": "authority",
         "ja": "権限"
+    },
+    {
+        "en": "authorization",
+        "ja": "認可"
     },
     {
         "en": "award",
@@ -252,6 +260,10 @@
         "ja": "予算配分"
     },
     {
+        "en": "bulletin board",
+        "ja": "掲示板"
+    },
+    {
         "en": "burden",
         "ja": "重荷"
     },
@@ -270,6 +282,10 @@
     {
         "en": "cafeteria",
         "ja": "食堂"
+    },
+    {
+        "en": "call-in order",
+        "ja": "電話注文"
     },
     {
         "en": "campaign",
@@ -372,6 +388,10 @@
         "ja": "社員旅行"
     },
     {
+        "en": "company premises",
+        "ja": "会社の敷地"
+    },
+    {
         "en": "company restructuring",
         "ja": "企業再編"
     },
@@ -416,6 +436,10 @@
         "ja": "妥協"
     },
     {
+        "en": "computer supplies",
+        "ja": "コンピュータ用品"
+    },
+    {
         "en": "concept",
         "ja": "概念"
     },
@@ -436,12 +460,20 @@
         "ja": "自身、信用"
     },
     {
+        "en": "confirmation",
+        "ja": "確認書"
+    },
+    {
         "en": "confirmation number",
         "ja": "確認番号"
     },
     {
         "en": "conflict",
         "ja": "争い"
+    },
+    {
+        "en": "conflict of interest",
+        "ja": "利益相反"
     },
     {
         "en": "congratulations",
@@ -512,6 +544,10 @@
         "ja": "協力"
     },
     {
+        "en": "coordinator",
+        "ja": "調整する人"
+    },
+    {
         "en": "copy",
         "ja": "広告文"
     },
@@ -558,6 +594,10 @@
     {
         "en": "customer traffic report",
         "ja": "入店客数報告書"
+    },
+    {
+        "en": "cutoff",
+        "ja": "締め切り"
     },
     {
         "en": "damage",
@@ -732,6 +772,10 @@
         "ja": "選挙"
     },
     {
+        "en": "electronic device",
+        "ja": "電子機器"
+    },
+    {
         "en": "email attachment",
         "ja": "添付ファイル"
     },
@@ -750,6 +794,10 @@
     {
         "en": "endeavor",
         "ja": "努力"
+    },
+    {
+        "en": "energy consumption",
+        "ja": "エネルギー消費"
     },
     {
         "en": "engagement",
@@ -806,6 +854,10 @@
     {
         "en": "example",
         "ja": "例"
+    },
+    {
+        "en": "exemption",
+        "ja": "適応除外"
     },
     {
         "en": "exit",
@@ -912,6 +964,10 @@
         "ja": "変動"
     },
     {
+        "en": "former president",
+        "ja": "元社長"
+    },
+    {
         "en": "foundation",
         "ja": "基礎"
     },
@@ -922,6 +978,10 @@
     {
         "en": "front desk",
         "ja": "受付"
+    },
+    {
+        "en": "front gate",
+        "ja": "正門"
     },
     {
         "en": "function",
@@ -1216,6 +1276,10 @@
         "ja": "昼休み"
     },
     {
+        "en": "machinery",
+        "ja": "機械類"
+    },
+    {
         "en": "maintenance",
         "ja": "整備"
     },
@@ -1420,6 +1484,10 @@
         "ja": "有給休暇"
     },
     {
+        "en": "panel interview",
+        "ja": "パネル面接"
+    },
+    {
         "en": "paperwork",
         "ja": "文書業務、書類作業"
     },
@@ -1446,6 +1514,10 @@
     {
         "en": "period",
         "ja": "期間"
+    },
+    {
+        "en": "personal interview",
+        "ja": "個人面談"
     },
     {
         "en": "personal object",
@@ -1538,6 +1610,10 @@
     {
         "en": "president's office",
         "ja": "社長室"
+    },
+    {
+        "en": "press conference",
+        "ja": "記者会見"
     },
     {
         "en": "priority",
@@ -1640,6 +1716,10 @@
         "ja": "出版"
     },
     {
+        "en": "publicity",
+        "ja": "評判"
+    },
+    {
         "en": "purpose",
         "ja": "目的"
     },
@@ -1712,6 +1792,10 @@
         "ja": "改修、改装"
     },
     {
+        "en": "registered member",
+        "ja": "登録会員"
+    },
+    {
         "en": "registration fee",
         "ja": "登録費用"
     },
@@ -1776,6 +1860,10 @@
         "ja": "研究"
     },
     {
+        "en": "research and development",
+        "ja": "研究開発"
+    },
+    {
         "en": "reservation",
         "ja": "予約"
     },
@@ -1836,6 +1924,10 @@
         "ja": "販売予測"
     },
     {
+        "en": "sales target",
+        "ja": "売上目標"
+    },
+    {
         "en": "schedule",
         "ja": "予定"
     },
@@ -1862,6 +1954,10 @@
     {
         "en": "seminar",
         "ja": "セミナー"
+    },
+    {
+        "en": "senior management",
+        "ja": "経営陣"
     },
     {
         "en": "server",
@@ -2092,6 +2188,10 @@
         "ja": "制服"
     },
     {
+        "en": "upkeep",
+        "ja": "維持管理"
+    },
+    {
         "en": "urge",
         "ja": "野心"
     },
@@ -2126,6 +2226,10 @@
     {
         "en": "venue",
         "ja": "会場"
+    },
+    {
+        "en": "verification",
+        "ja": "確認"
     },
     {
         "en": "vision",
