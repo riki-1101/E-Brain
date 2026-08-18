@@ -1,61 +1,153 @@
 [
     {
         "en": "I think (SV)",
-        "ja": "（主観的に）～だと思う",
+        "ja": "～だと思う",
         "ex": [
             {
                 "en": "I think it's a good idea.",
                 "ja": "それはいい考えだと思う。"
+            },
+            {
+                "en": "I think it'll rain tomorrow.",
+                "ja": "明日、雨が降ると思う。"
+            },
+            {
+                "en": "I think you're right.",
+                "ja": "あなたが正しいと思う。"
+            },
+            {
+                "en": "I think this is a great movie.",
+                "ja": "これは素晴らしい映画だと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I don't think (SV)",
+        "ja": "～でないと思う",
+        "ex": [
+            {
+                "en": "I don't think he knows the truth.",
+                "ja": "彼は真実を知らないと思う。"
+            },
+            {
+                "en": "I don't think he will come.",
+                "ja": "彼は来ないと思う。"
+            },
+            {
+                "en": "I don't think this is the right train.",
+                "ja": "これは正しい電車ではないと思う。"
             }
         ]
     },
     {
         "en": "I thought (SV)",
-        "ja": "（主観的に）～だと思った",
+        "ja": "～だと思った",
         "ex": [
             {
-                "en": "",
-                "ja": ""
+                "en": "I though it was okay.",
+                "ja": "大丈夫だと思っていました。"
+            },
+            {
+                "en": "I thought it would rain.",
+                "ja": "雨が降るかと思った。"
+            },
+            {
+                "en": "I thought I'd stop by.",
+                "ja": "ちょっと立ち寄ろうと思った。"
+            },
+            {
+                "en": "I thought I'd call you.",
+                "ja": "あなたに電話しようと思った。"
             }
         ]
     },
     {
         "en": "I believe (SV)",
-        "ja": "～だと信じる",
+        "ja": "～だと信じている",
         "ex": [
             {
                 "en": "I believe we can win.",
                 "ja": "私たちは勝てると信じる。"
+            },
+            {
+                "en": "I believe he'll come here.",
+                "ja": "彼がここに来ると信じる。"
             }
         ]
     },
     {
         "en": "I assume (SV)",
-        "ja": "～だと勝手に思い込む",
+        "ja": "～だと勝手に思っている",
+        "ex": [
+            {
+                "en": "I assume you are busy.",
+                "ja": "お忙しいことと存じます。"
+            },
+            {
+                "en": "I assume he'll accept the offer.",
+                "ja": "彼はその申し出を受け入れると勝手に思っている。"
+            },
+            {
+                "en": "I assume they're already on their way.",
+                "ja": "彼らはもうこちらに向かっていると勝手に思っている。"
+            }
+        ]
+    },
+    {
+        "en": "I assumed (SV)",
+        "ja": "～だと勝手に思い込んでいた",
         "ex": [
             {
                 "en": "I assumed you knew.",
-                "ja": "あなたは知っていると勝手に思い込んだ。"
+                "ja": "あなたは知っていると勝手に思い込んでいた。"
+            },
+            {
+                "en": "I assumed you didn't want to go.",
+                "ja": "あなたは行きたくないのだと勝手に思い込んでいた。"
+            },
+            {
+                "en": "I assumed he was the manager.",
+                "ja": "彼がマネージャーだと勝手に思い込んでいた。"
+            },
+            {
+                "en": "I assumed we were meeting tomorrow.",
+                "ja": "会議は明日だと勝手に思い込んでいた。"
             }
         ]
     },
     {
         "en": "I suppose (SV)",
-        "ja": "～だと推測する",
+        "ja": "～だと推測する、おそらく～だろうと思う",
         "ex": [
             {
                 "en": "I suppose he's right.",
-                "ja": "彼は正しいと推測する。"
+                "ja": "彼は正しいんだと思う。"
+            },
+            {
+                "en": "I suppose we should go now.",
+                "ja": "もう行った方がいいと思う。"
+            },
+            {
+                "en": "I suppose your're tired.",
+                "ja": "あなたは疲れているんじゃないかと思う。"
             }
         ]
     },
     {
         "en": "I guess (SV)",
-        "ja": "多分～だと思う",
+        "ja": "多分～だと思う、～かな",
         "ex": [
             {
                 "en": "I guess you're busy.",
                 "ja": "多分あなたは忙しいだろうと思う。"
+            },
+            {
+                "en": "I guess it's going to rain today.",
+                "ja": "多分、今日は雨が降るんじゃないかな。"
+            },
+            {
+                "en": "I guess I'll stay home today.",
+                "ja": "今日は家にいようかな。"
             }
         ]
     },
@@ -66,6 +158,10 @@
             {
                 "en": "I bet you'll do great on the exam.",
                 "ja": "絶対あなたは試験が上手くいくと思う。"
+            },
+            {
+                "en": "I bet they'll win the game.",
+                "ja": "絶対彼ら試合にが勝つと思う。"
             }
         ]
     },
