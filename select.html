@@ -108,7 +108,6 @@
             </div>
         </div>
     </main>
-    
     <footer id="footer"></footer>
     <script src="js/header.js"></script>
     <script src="js/footer.js"></script>
@@ -126,13 +125,10 @@
             // liをクリック
             document.querySelectorAll(".list").forEach(list => {
                 list.addEventListener("click", (e) => {
-
                     if (e.target.tagName === "LI") {
                         selectedId = e.target.id;
-
                         popup.classList.add("show");
                     }
-
                 });
             });
 
@@ -140,12 +136,14 @@
             listButton.addEventListener("click", () => {
                 localStorage.setItem("selectedId_list", selectedId);
                 window.location.href = "list/display.html";
+                popup.classList.remove("show");
             });
 
             // 暗記練習
             memorizationButton.addEventListener("click", () => {
                 localStorage.setItem("selectedId_memorization", selectedId);
                 window.location.href = "memorization/display.html";
+                popup.classList.remove("show");
             });
 
             // ×ボタン
