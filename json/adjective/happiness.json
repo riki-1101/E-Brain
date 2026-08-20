@@ -32,12 +32,24 @@
         "ja": "～に大変喜んでいる"
     },
     {
-        "en": "proud of (sth)",
+        "en": "proud of (sth/sb)",
         "ja": "～を誇りに思っている"
     },
     {
         "en": "thankful for (sth)",
-        "ja": "～に感謝している"
+        "ja": "（物・事）に感謝している"
+    },
+    {
+        "en": "thankful for (sb)",
+        "ja": "（人）に感謝している"
+    },
+    {
+        "en": "grateful for (sth)",
+        "ja": "（物・事）に感謝している"
+    },
+    {
+        "en": "grateful to (sb)",
+        "ja": "（人）に感謝している"
     },
     {
         "en": "looking forward to (sth)",
