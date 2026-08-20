@@ -228,6 +228,10 @@
         "ja": "請求書"
     },
     {
+        "en": "billing mistake",
+        "ja": "請求ミス"
+    },
+    {
         "en": "blueprint",
         "ja": "設計図"
     },
@@ -360,8 +364,16 @@
         "ja": "整理"
     },
     {
+        "en": "closing time",
+        "ja": "終業時間"
+    },
+    {
         "en": "clue",
         "ja": "手がかり"
+    },
+    {
+        "en": "commercial vehicle",
+        "ja": "商用車"
     },
     {
         "en": "commission",
@@ -2016,6 +2028,10 @@
         "ja": "解決策"
     },
     {
+        "en": "special deal",
+        "ja": "特別サービス"
+    },
+    {
         "en": "specialty",
         "ja": "専門"
     },
@@ -2081,7 +2097,7 @@
     },
     {
         "en": "survey",
-        "ja": "調査"
+        "ja": "アンケート調査"
     },
     {
         "en": "synopsis",
